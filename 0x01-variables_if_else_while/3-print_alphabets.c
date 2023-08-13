@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Entry point
- * Description: A program that print alphabet in lower case ands then in uppercase
- * Return: Always 0
+ * Description: Prints the lowercase and uppercase alphabet using the puther function.
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
