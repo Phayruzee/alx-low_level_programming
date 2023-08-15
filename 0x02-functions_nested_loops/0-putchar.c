@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * Main - function that prints _putcher
+ * main - prints _putcher
+ * Discription: Written by phayruzee
  * Return: returns (0)
  */
 
